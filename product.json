@@ -1,0 +1,19 @@
+{
+    "products" : [
+        {
+            "product_type" : "masterclass",
+            "product_id" : "masterclass",
+            "price" : 280000
+        },
+        {
+            "product_type" : "mentorship",
+            "product_id" : "one_on_one_mentorship",
+            "price" : 150000
+        },
+        {
+            "product_type" : "mentorship",
+            "product_id" : "group_mentorship",
+            "price" : 100000
+        }
+    ]
+}

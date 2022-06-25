@@ -1,0 +1,60 @@
+{
+  "sales": [
+    {
+      "customer_name": "Jen",
+      "product_id": "masterclass",
+      "mentor_name": "Windy Natriavi"
+    },
+    {
+      "customer_name": "Meta",
+      "product_id": "masterclass",
+      "mentor_name": "Nadhira Audrelya"
+    },
+    {
+      "customer_name": "Seli",
+      "product_id": "one_on_one_mentorship",
+      "session_quantity": 1,
+      "mentor_name": "Fransiska PW"
+    },
+    {
+      "customer_name": "Meta",
+      "product_id": "group_mentorship",
+      "participants": 4,
+      "session_quantity": 2,
+      "mentor_name": "Windy Natriavi"
+    },
+    {
+      "customer_name": "Ovi",
+      "product_id": "masterclass",
+      "mentor_name": "Nadhira Audrelya"
+    },
+    {
+      "customer_name": "Jen",
+      "product_id": "one_on_one_mentorship",
+      "session_quantity": 1,
+      "mentor_name": "Fransiska PW"
+    },
+    {
+      "customer_name": "Will",
+      "product_id": "group_mentorship",
+      "participants": 2,
+      "session_quantity": 2,
+      "mentor_name": "Fransiska PW"
+    },
+    {
+      "customer_name": "Ari",
+      "product_id": "masterclass",
+      "mentor_name": "Nadhira Audrelya"
+    },
+    {
+      "customer_name": "Ian",
+      "product_id": "masterclass",
+      "mentor_name": "Nadhira Audrelya"
+    },
+    {
+      "customer_name": "Jane",
+      "product_id": "masterclass",
+      "mentor_name": "Nadhira Audrelya"
+    }
+  ]
+}
